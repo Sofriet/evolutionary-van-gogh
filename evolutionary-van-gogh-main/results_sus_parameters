@@ -1,0 +1,83 @@
+Results for alpha = 1.0:
+----------------------------------------
+Seed: 0, Elite Fraction: 0.70 → Avg Fitness: 53062.0900
+Seed: 0, Elite Fraction: 0.75 → Avg Fitness: 52923.0000
+Seed: 0, Elite Fraction: 0.80 → Avg Fitness: 52721.8500
+Seed: 0, Elite Fraction: 0.85 → Avg Fitness: 48335.1300
+Seed: 0, Elite Fraction: 0.90 → Avg Fitness: 50641.6700
+Seed: 0, Elite Fraction: 0.95 → Avg Fitness: 53129.8800
+Seed: 1, Elite Fraction: 0.70 → Avg Fitness: 50761.0700
+Seed: 1, Elite Fraction: 0.75 → Avg Fitness: 50104.2800
+Seed: 1, Elite Fraction: 0.80 → Avg Fitness: 48857.5900
+Seed: 1, Elite Fraction: 0.85 → Avg Fitness: 48837.4600
+Seed: 1, Elite Fraction: 0.90 → Avg Fitness: 46127.8800
+Seed: 1, Elite Fraction: 0.95 → Avg Fitness: 46930.2900
+----------------------------------------
+
+
+Results for alpha = 1.5:
+----------------------------------------
+Seed: 0, Elite Fraction: 0.70 → Avg Fitness: 55570.0500
+Seed: 0, Elite Fraction: 0.75 → Avg Fitness: 48463.0900
+Seed: 0, Elite Fraction: 0.80 → Avg Fitness: 50088.7800
+Seed: 0, Elite Fraction: 0.85 → Avg Fitness: 50773.1200
+Seed: 0, Elite Fraction: 0.90 → Avg Fitness: 51741.0800
+Seed: 0, Elite Fraction: 0.95 → Avg Fitness: 51137.6700
+Seed: 1, Elite Fraction: 0.70 → Avg Fitness: 50093.1200
+Seed: 1, Elite Fraction: 0.75 → Avg Fitness: 49643.9500
+Seed: 1, Elite Fraction: 0.80 → Avg Fitness: 48162.7800
+Seed: 1, Elite Fraction: 0.85 → Avg Fitness: 47615.0300
+Seed: 1, Elite Fraction: 0.90 → Avg Fitness: 49366.1700
+Seed: 1, Elite Fraction: 0.95 → Avg Fitness: 46631.6400
+----------------------------------------
+
+
+Results for alpha = 2.0:
+----------------------------------------
+Seed: 0, Elite Fraction: 0.70 → Avg Fitness: 52442.6800
+Seed: 0, Elite Fraction: 0.75 → Avg Fitness: 51349.2700
+Seed: 0, Elite Fraction: 0.80 → Avg Fitness: 52880.7500
+Seed: 0, Elite Fraction: 0.85 → Avg Fitness: 50459.2600
+Seed: 0, Elite Fraction: 0.90 → Avg Fitness: 49118.4100
+Seed: 0, Elite Fraction: 0.95 → Avg Fitness: 51722.1200
+Seed: 1, Elite Fraction: 0.70 → Avg Fitness: 49341.1900
+Seed: 1, Elite Fraction: 0.75 → Avg Fitness: 48654.2000
+Seed: 1, Elite Fraction: 0.80 → Avg Fitness: 50635.1300
+Seed: 1, Elite Fraction: 0.85 → Avg Fitness: 50606.5600
+Seed: 1, Elite Fraction: 0.90 → Avg Fitness: 49728.0100
+Seed: 1, Elite Fraction: 0.95 → Avg Fitness: 48285.3400
+----------------------------------------
+
+
+Results for alpha = 2.5:
+----------------------------------------
+Seed: 0, Elite Fraction: 0.70 → Avg Fitness: 50896.0800
+Seed: 0, Elite Fraction: 0.75 → Avg Fitness: 48764.0800
+Seed: 0, Elite Fraction: 0.80 → Avg Fitness: 51215.3200
+Seed: 0, Elite Fraction: 0.85 → Avg Fitness: 54588.1800
+Seed: 0, Elite Fraction: 0.90 → Avg Fitness: 53938.3700
+Seed: 0, Elite Fraction: 0.95 → Avg Fitness: 50716.0100
+Seed: 1, Elite Fraction: 0.70 → Avg Fitness: 47031.7200
+Seed: 1, Elite Fraction: 0.75 → Avg Fitness: 47897.3700
+Seed: 1, Elite Fraction: 0.80 → Avg Fitness: 50277.8200
+Seed: 1, Elite Fraction: 0.85 → Avg Fitness: 49985.5400
+Seed: 1, Elite Fraction: 0.90 → Avg Fitness: 47990.3100
+Seed: 1, Elite Fraction: 0.95 → Avg Fitness: 47572.9600
+----------------------------------------
+
+
+Results for alpha = 3.0:
+----------------------------------------
+Seed: 0, Elite Fraction: 0.70 → Avg Fitness: 49822.6000
+Seed: 0, Elite Fraction: 0.75 → Avg Fitness: 50922.5100
+Seed: 0, Elite Fraction: 0.80 → Avg Fitness: 51250.6800
+Seed: 0, Elite Fraction: 0.85 → Avg Fitness: 50727.6500
+Seed: 0, Elite Fraction: 0.90 → Avg Fitness: 51690.2500
+Seed: 0, Elite Fraction: 0.95 → Avg Fitness: 52321.5900
+Seed: 1, Elite Fraction: 0.70 → Avg Fitness: 49288.1700
+Seed: 1, Elite Fraction: 0.75 → Avg Fitness: 49945.2400
+Seed: 1, Elite Fraction: 0.80 → Avg Fitness: 50888.3400
+Seed: 1, Elite Fraction: 0.85 → Avg Fitness: 50780.3600
+Seed: 1, Elite Fraction: 0.90 → Avg Fitness: 48298.2900
+Seed: 1, Elite Fraction: 0.95 → Avg Fitness: 48093.4200
+----------------------------------------
